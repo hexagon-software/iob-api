@@ -1,0 +1,8 @@
+/* THIS IS THE MOD-SIDE DRAGONS FRAMEWORK.
+ * SO GHANOU KEEP YOUR FINGERS AWAY FROM IT THIS IS MY FIELD
+ * IF THERE ARE ANY ERRORS IN HERE, WHICH ARE NOT CAUSED BY ME
+ * GHANOU IS TO BLAME.
+ * 
+ * - Felix, Overlord of the Mod.
+ * */
+package de.hexagonsoftware.iob.framework.dragons;
